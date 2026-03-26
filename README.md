@@ -10,15 +10,11 @@
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>3+</b><br>YEARS OF EXPERIENCE</td>
-    <td align="center"><b>20+</b><br>PROJECTS</td>
-    <td align="center"><b>100%</b><br>BUSINESS FOCUS</td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=3%2B%20years&message=experience&color=007acc&style=flat-square&labelColor=000000&logo=octicons/history" alt="Experience badge" />
+  <img src="https://img.shields.io/static/v1?label=20%2B&message=PROJECTS&color=007acc&style=flat-square&labelColor=000000&logo=octicons/briefcase" alt="Projects badge" />
+  <img src="https://img.shields.io/static/v1?label=100%25&message=business%20focus&color=007acc&style=flat-square&labelColor=000000&logo=octicons/rocket" alt="Focus badge" />
+</p></div>
 
 ---
 
@@ -44,19 +40,29 @@ Frontend Engineer specializing in **high-performance E-commerce** and product-or
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=1000&pause=4000&color=FFFFFF&background=FFFFFF00&width=550&height=40&lines=STACK)](https://git.io/typing-svg)
 
-| Base                                                                                                                            | UI & UIKit                                                                                                                   | Architecture                                                                                                                  | State & Data                                                                                                                            | Testing                                                                                                                | DevOps                                                                                                                     |
-| :------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
-| ![React](https://img.shields.io/badge/React-4bd1ff?style=flat&logo=react&logoColor=white&labelColor=0d1117)                     | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-4bd1ff?style=flat&logo=framer&logoColor=white&labelColor=0d1117) | ![FSD](https://img.shields.io/badge/FSD-4bd1ff?style=flat&logo=github&logoColor=white&labelColor=0d1117)                      | ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-4bd1ff?style=flat&logo=redux&logoColor=white&labelColor=0d1117)             | ![Playwright](https://img.shields.io/badge/Playwright-4bd1ff?style=flat&logo=github&logoColor=white&labelColor=0d1117) | ![Docker](https://img.shields.io/badge/Docker-4bd1ff?style=flat&logo=docker&logoColor=white&labelColor=0d1117)             |
-| ![Next.js](https://img.shields.io/badge/Next.js-37b5ff?style=flat&logo=next.js&logoColor=white&labelColor=0d1117)               | ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-37b5ff?style=flat&logo=shadcnui&logoColor=white&labelColor=0d1117)       | ![Feature-Based](https://img.shields.io/badge/Feature--Based-37b5ff?style=flat&logo=github&logoColor=white&labelColor=0d1117) | ![Zustand](https://img.shields.io/badge/Zustand-37b5ff?style=flat&logo=github&logoColor=white&labelColor=0d1117)                        | ![Jest](https://img.shields.io/badge/Jest-37b5ff?style=flat&logo=jest&logoColor=white&labelColor=0d1117)               | ![Kubernetes](https://img.shields.io/badge/Kubernetes-37b5ff?style=flat&logo=kubernetes&logoColor=white&labelColor=0d1117) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-249aff?style=flat&logo=typescript&logoColor=white&labelColor=0d1117)      | ![Radix UI](https://img.shields.io/badge/Radix_UI-249aff?style=flat&logo=radixui&logoColor=white&labelColor=0d1117)          | ![Classic](https://img.shields.io/badge/Classic-249aff?style=flat&logo=github&logoColor=white&labelColor=0d1117)              | ![TanStack Query](https://img.shields.io/badge/TanStack_Query-249aff?style=flat&logo=reactquery&logoColor=white&labelColor=0d1117)      | &nbsp;                                                                                                                 | &nbsp;                                                                                                                     |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-127eff?style=flat&logo=tailwindcss&logoColor=white&labelColor=0d1117) | ![MUI](https://img.shields.io/badge/MUI-127eff?style=flat&logo=mui&logoColor=white&labelColor=0d1117)                        | ![Atomic Design](https://img.shields.io/badge/Atomic_Design-127eff?style=flat&logo=github&logoColor=white&labelColor=0d1117)  | ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-127eff?style=flat&logo=reacthookform&logoColor=white&labelColor=0d1117) | &nbsp;                                                                                                                 | &nbsp;                                                                                                                     |
-| ![SCSS](https://img.shields.io/badge/SCSS-0073ff?style=flat&logo=sass&logoColor=white&labelColor=0d1117)                        | ![Sonner](https://img.shields.io/badge/Sonner-0073ff?style=flat&logo=github&logoColor=white&labelColor=0d1117)               | ![SOLID](https://img.shields.io/badge/SOLID-0073ff?style=flat&logo=github&logoColor=white&labelColor=0d1117)                  | ![Zod](https://img.shields.io/badge/Zod-127eff?style=flat&logo=zod&logoColor=white&labelColor=0d1117)                                   | &nbsp;                                                                                                                 | &nbsp;                                                                                                                     |
+#### Base
+![React](https://img.shields.io/badge/React-4bd1ff?style=flat-square&logo=react&logoColor=white&labelColor=0d1117) ![Next.js](https://img.shields.io/badge/Next.js-37b5ff?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117) ![TypeScript](https://img.shields.io/badge/TypeScript-249aff?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-127eff?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117) ![SCSS](https://img.shields.io/badge/SCSS-0073ff?style=flat-square&logo=sass&logoColor=white&labelColor=0d1117)
+
+#### UI & UIKit
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-4bd1ff?style=flat-square&logo=framer&logoColor=white&labelColor=0d1117) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-37b5ff?style=flat-square&logo=shadcnui&logoColor=white&labelColor=0d1117) ![Radix UI](https://img.shields.io/badge/Radix_UI-249aff?style=flat-square&logo=radixui&logoColor=white&labelColor=0d1117) ![MUI](https://img.shields.io/badge/MUI-127eff?style=flat-square&logo=mui&logoColor=white&labelColor=0d1117) ![Recharts](https://img.shields.io/badge/Recharts-0073ff?style=flat-square&logo=recharts&logoColor=white&labelColor=0d1117) ![Sonner](https://img.shields.io/badge/Sonner-0073ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+
+#### State & Data
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-4bd1ff?style=flat-square&logo=redux&logoColor=white&labelColor=0d1117) ![Zustand](https://img.shields.io/badge/Zustand-37b5ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-249aff?style=flat-square&logo=reactquery&logoColor=white&labelColor=0d1117) ![TanStack Table](https://img.shields.io/badge/TanStack_Table-1e88e5?style=flat-square&logo=github&logoColor=white&labelColor=0d1117) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-127eff?style=flat-square&logo=reacthookform&logoColor=white&labelColor=0d1117) ![Zod](https://img.shields.io/badge/Zod-127eff?style=flat-square&logo=zod&logoColor=white&labelColor=0d1117)
+
+#### Architecture
+![FSD](https://img.shields.io/badge/FSD-4bd1ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117) ![Feature-Based](https://img.shields.io/badge/Feature--Based-37b5ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117) ![Classic](https://img.shields.io/badge/Classic-249aff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117) ![Atomic Design](https://img.shields.io/badge/Atomic_Design-127eff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+
+#### Testing
+![Playwright](https://img.shields.io/badge/Playwright-4bd1ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117) ![Jest](https://img.shields.io/badge/Jest-37b5ff?style=flat-square&logo=jest&logoColor=white&labelColor=0d1117)
+
+#### DevOps
+![Docker](https://img.shields.io/badge/Docker-4bd1ff?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=30&duration=1000&pause=4000&color=FFFFFF&background=FFFFFF00&width=550&height=40&lines=CONTACTS)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/danriweb__online-3B82F6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/danriweb_online)
-[![Email](https://img.shields.io/badge/danri.web@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:danri.web@gmail.com)
+[![Email](https://img.shields.io/badge/dev@danri--web.ru-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dev@danri-web.ru)
 
 </div>
